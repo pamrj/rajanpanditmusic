@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/TKS_JOIN")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/TKS_JOIN")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/StylishBioTelegram_xyz")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/StylishBioTelegram_xyz")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -155,26 +155,26 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/0cd46001501ac5b02d6e5.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://i.postimg.cc/SsPbMKMT/IMG-20240112-142517-103.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph//file/540be1b75ff70fe7b2c28.jpg",
+    "https://i.postimg.cc/SsPbMKMT/IMG-20240112-142517-103.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg",
+    "https://i.postimg.cc/SsPbMKMT/IMG-20240112-142517-103.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg",
+    "https://i.postimg.cc/SsPbMKMT/IMG-20240112-142517-103.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg",
+    "https://i.postimg.cc/SsPbMKMT/IMG-20240112-142517-103.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
