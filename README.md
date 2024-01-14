@@ -14,13 +14,13 @@
 
 
 <h2 align="center">
-    ─「 𝐒𝐀𝐑𝐊𝐀𝐑 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 𝐑𝐀𝐉𝐀𝐍 𝐌𝐔𝐒𝐈𝐂 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐒𝐀𝐑𝐊𝐀𝐑+𝐎𝐏+𝐁𝐎𝐋𝐓𝐄+🎭">
 <p align="center">
-  <img src="https://telegra.ph/file/b30cb38e28a79cef71747.jpg">
+  <img src="https://i.postimg.cc/SsPbMKMT/IMG-20240112-142517-103.jpg">
 </p>
 
 **𝐌𝐘 𝐁𝐎𝐓 ➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/ll_RADHA_MUSICBOT)**
